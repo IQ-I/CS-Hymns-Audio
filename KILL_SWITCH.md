@@ -5,7 +5,7 @@ comes back to the foreground. Only IQ-I org admins/maintainers can edit it.
 
 ## Turn the Yorùbá voice OFF (from your phone)
 1. Open **https://github.com/IQ-I/CS-Hymns-Audio/edit/main/config/voice.json** in your phone's browser (signed in to GitHub).
-2. Change `"enabled": true` to `"enabled": false` (line 4). Keep the quotes, commas and brackets exactly as they are.
+2. Change `"enabled": true` to `"enabled": false`. Keep the quotes, commas and brackets exactly as they are.
 3. Tap **Commit changes…** → **Commit changes**.
 
 Turn it back ON the same way: `false` → `true`.
