@@ -1,5 +1,6 @@
 {
   "schema": 1,
+  "_help": "Owner switch: set yorubaVoice.enabled to false to turn the Yoruba voice off in the app (see KILL_SWITCH.md).",
   "yorubaVoice": {
     "enabled": true,
     "voices": ["male", "female"],
