@@ -24,3 +24,8 @@ Optional: remove `"female"` from `"voices"` to offer only the male voice (or vic
 - If the file can't be read (offline, GitHub down, typo in the JSON), the app keeps the **last setting it successfully read**; if it has never read one, the voice stays **on**.
   → So after a typo, the switch simply doesn't change anything. Fix the typo and commit again.
 - Check your edit: open https://raw.githubusercontent.com/IQ-I/CS-Hymns-Audio/main/config/voice.json — it should show your change (GitHub may take up to 5 min to show it there; the app bypasses that cache).
+
+## English hosted voice (Grace / Daniel)
+
+Same idea: set `"englishVoice": { "enabled": false }` in `config/voice.json` and app builds with English
+audio support go back to the phone's own English voices within a few minutes. No app update needed.
