@@ -15,12 +15,12 @@
     "message": "The Yorùbá voice is resting for now. You can still read along, or listen in English."
   },
   "audio": {
-    "version": 1,
-    "indexUrl": "https://raw.githubusercontent.com/IQ-I/CS-Hymns-Audio/main/v1/index.json",
-    "hymnsBaseUrl": "https://raw.githubusercontent.com/IQ-I/CS-Hymns-Audio/main/v1/hymns",
+    "version": 3,
+    "indexUrl": "https://raw.githubusercontent.com/IQ-I/CS-Hymns-Audio/main/v3/index.json",
+    "hymnsBaseUrl": "https://raw.githubusercontent.com/IQ-I/CS-Hymns-Audio/main/v3/hymns",
     "audioBaseUrls": {
-      "male": "https://github.com/IQ-I/CS-Hymns-Audio/releases/download/yo-voice-v1-male",
-      "female": "https://github.com/IQ-I/CS-Hymns-Audio/releases/download/yo-voice-v1-female"
+      "male": "https://github.com/IQ-I/CS-Hymns-Audio/releases/download/yo-voice-v3-male",
+      "female": "https://github.com/IQ-I/CS-Hymns-Audio/releases/download/yo-voice-v3-female"
     }
   },
   "englishVoice": {
@@ -32,12 +32,12 @@
     "defaultVoice": "grace"
   },
   "audioEn": {
-    "version": 1,
-    "indexUrl": "https://raw.githubusercontent.com/IQ-I/CS-Hymns-Audio/main/en/v1/index.json",
-    "hymnsBaseUrl": "https://raw.githubusercontent.com/IQ-I/CS-Hymns-Audio/main/en/v1/hymns",
+    "version": 2,
+    "indexUrl": "https://raw.githubusercontent.com/IQ-I/CS-Hymns-Audio/main/en/v2/index.json",
+    "hymnsBaseUrl": "https://raw.githubusercontent.com/IQ-I/CS-Hymns-Audio/main/en/v2/hymns",
     "audioBaseUrls": {
-      "grace": "https://github.com/IQ-I/CS-Hymns-Audio/releases/download/en-voice-v1-grace",
-      "daniel": "https://github.com/IQ-I/CS-Hymns-Audio/releases/download/en-voice-v1-daniel"
+      "grace": "https://github.com/IQ-I/CS-Hymns-Audio/releases/download/en-voice-v2-grace",
+      "daniel": "https://github.com/IQ-I/CS-Hymns-Audio/releases/download/en-voice-v2-daniel"
     }
   }
 }
